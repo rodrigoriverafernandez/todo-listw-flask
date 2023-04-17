@@ -1,2 +1,2 @@
-# todo-listw-flask
-proyecto de Lista de Tareas
+# todo-list-flask
+Proyecto de lista de Tareas
